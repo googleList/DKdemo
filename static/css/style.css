@@ -535,10 +535,11 @@ h4 {
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     margin: 33px 200px 0 0;
-        font-size: 21px;
+    font-size: 25px;
     font-weight: bold;
-    color: #333;
+    color: #000;
 }
+.header .logo>a{ color: #000; }
 
 /* Header Fix */
 .header.downscrolled {
